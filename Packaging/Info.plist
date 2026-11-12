@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleIdentifier</key><string>com.audiosplitx.app</string>
+<key>CFBundleName</key><string>AudioSplit X</string>
+<key>CFBundleDisplayName</key><string>AudioSplit X</string>
+<key>CFBundleExecutable</key><string>AudioSplitX</string>
+<key>CFBundleVersion</key><string>1</string>
+<key>CFBundleShortVersionString</key><string>0.1.0</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleIconFile</key><string>AppIcon</string>
+<key>LSMinimumSystemVersion</key><string>15.0</string>
+<key>LSUIElement</key><true/>
+<key>NSHighResolutionCapable</key><true/>
+<key>NSAudioCaptureUsageDescription</key><string>AudioSplit X cattura localmente l’audio delle app scelte per riprodurlo sull’uscita selezionata, regolare il volume e silenziarlo. Non salva né invia registrazioni.</string>
+</dict></plist>
